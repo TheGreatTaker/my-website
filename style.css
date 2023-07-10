@@ -38,7 +38,7 @@ body{
 .avatar{
    width: 77px;
    height: 77px; 
-   background-image: url("q1yI0SUYEBU.jpg");
+   background-image: url("./q1yI0SUYEBU.jpg");
    background-size: cover;
    border-radius: 50%;
 }
@@ -72,17 +72,17 @@ body{
 }
 
 .mem1{
-    background-image: url(mem1.jpg);
+    background-image: url(./mem1.jpg);
     background-size: cover;
 
 }
 .mem2{
-    background-image: url(mem2.jpg);
+    background-image: url(./mem2.jpg);
     background-size: cover;
     background-position: 50%;
 }
 .mem3{
-    background-image: url(mem3.webp);
+    background-image: url(./mem3.webp);
     background-size: cover;
     background-position: 35%;
 }
